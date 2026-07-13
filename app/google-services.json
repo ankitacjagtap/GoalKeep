@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794287460974",
+    "project_id": "goalkeep-a1cd9",
+    "storage_bucket": "goalkeep-a1cd9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794287460974:android:0820e47f8a176b996f4c7f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8IlmPr-3PiHo2swaN5OjCOrDKxv-Yj7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
