@@ -9,18 +9,11 @@
 <img src="https://github.com/user-attachments/assets/f905488a-6b5e-4991-a76c-02794687dae4" width="250"/>
 
 ### Add Goal
-<img src="https://github.com/user-attachments/assets/01d7da60-349e-4ab1-89bb-f354cf60737" width="250"/>
+<img src="https://github.com/user-attachments/assets/87d82e84-aa28-4c13-a09f-76a7ef6121ba" width="250"/>
 
 ### Goal Details
 <img src="https://github.com/user-attachments/assets/a100fd12-28c6-4e15-b1b2-c253a36a457b" width="250"/>
 
-## 📱 Screenshots
-
-| Home Screen | Add Goal | Goal Details |
-|--------------|----------|--------------|
-| ![Home Screen](<img width="250" height="2424" alt="Home Screen" src="https://github.com/user-attachments/assets/f905488a-6b5e-4991-a76c-02794687dae4" />) | ![Add Goal] (<img width="250" height="2424" alt="Add Goal" src="https://github.com/user-attachments/assets/01d7da60-349e-4ab1-89bb-f354cf60737a" />
-) | ![Goal Details](<img width="250" height="2424" alt="Goal Details" src="https://github.com/user-attachments/assets/a100fd12-28c6-4e15-b1b2-c253a36a457b" />
-) |
 
 ---
 
