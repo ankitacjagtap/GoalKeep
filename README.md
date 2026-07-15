@@ -3,6 +3,16 @@
 > A modern Android application built using **Kotlin** that helps users create goals, organize them into manageable tasks, and track their progress efficiently. The application follows the **MVVM architecture**, stores user data using **Firebase Realtime Database**, and displays motivational quotes fetched from a REST API.
 
 ---
+## 📱 Screenshots
+
+### Home Screen
+<img src="https://github.com/user-attachments/assets/f905488a-6b5e-4991-a76c-02794687dae4" width="250"/>
+
+### Add Goal
+<img src="https://github.com/user-attachments/assets/01d7da60-349e-4ab1-89bb-f354cf60737" width="250"/>
+
+### Goal Details
+<img src="https://github.com/user-attachments/assets/a100fd12-28c6-4e15-b1b2-c253a36a457b" width="250"/>
 
 ## 📱 Screenshots
 
