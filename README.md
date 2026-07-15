@@ -4,6 +4,24 @@
 
 ---
 ## 📱 Screenshots
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/f905488a-6b5e-4991-a76c-02794687dae4" width="220"><br>
+<b>Home Screen</b>
+</td>
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/87d82e84-aa28-4c13-a09f-76a7ef6121ba" width="220"><br>
+<b>Add Goal</b>
+</td>
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/a100fd12-28c6-4e15-b1b2-c253a36a457b" width="220"><br>
+<b>Goal Details</b>
+</td>
+</tr>
+</table>
 
 ### Home Screen
 <img src="https://github.com/user-attachments/assets/f905488a-6b5e-4991-a76c-02794687dae4" width="250"/>
